@@ -1,0 +1,32 @@
+﻿coluna,count,mean,std,min,25%,50%,75%,max,mediana,variancia,tipo,categoria,quantidade
+preco_unitario,1000.0,55.67,26.49,10.08,32.88,55.23,77.94,99.96,55.23,701.97,numerica,,
+quantidade,1000.0,5.51,2.92,1.0,3.0,5.0,8.0,10.0,5.0,8.55,numerica,,
+imposto,1000.0,15.38,11.71,0.51,5.92,12.09,22.45,49.65,12.09,137.1,numerica,,
+valor_total,1000.0,322.97,245.89,10.68,124.42,253.85,471.35,1042.65,253.85,60459.6,numerica,,
+custo_mercadoria,1000.0,307.59,234.18,10.17,118.5,241.76,448.9,993.0,241.76,54838.64,numerica,,
+margem_percentual,1000.0,4.76,0.0,4.76,4.76,4.76,4.76,4.76,4.76,0.0,numerica,,
+receita_bruta,1000.0,15.38,11.71,0.51,5.92,12.09,22.45,49.65,12.09,137.1,numerica,,
+avaliacao,1000.0,6.97,1.72,4.0,5.5,7.0,8.5,10.0,7.0,2.95,numerica,,
+ticket_medio_filial,1000.0,322.96,10.35,312.35,312.35,319.87,337.1,337.1,319.87,107.13,numerica,,
+filial,,,,,,,,,,,categorica,alex,340.0
+filial,,,,,,,,,,,categorica,cairo,332.0
+filial,,,,,,,,,,,categorica,giza,328.0
+cidade,,,,,,,,,,,categorica,yangon,340.0
+cidade,,,,,,,,,,,categorica,mandalay,332.0
+cidade,,,,,,,,,,,categorica,naypyitaw,328.0
+tipo_cliente,,,,,,,,,,,categorica,member,565.0
+tipo_cliente,,,,,,,,,,,categorica,normal,435.0
+genero,,,,,,,,,,,categorica,female,571.0
+genero,,,,,,,,,,,categorica,male,429.0
+linha_produto,,,,,,,,,,,categorica,fashion accessories,178.0
+linha_produto,,,,,,,,,,,categorica,food and beverages,174.0
+linha_produto,,,,,,,,,,,categorica,electronic accessories,170.0
+linha_produto,,,,,,,,,,,categorica,sports and travel,166.0
+linha_produto,,,,,,,,,,,categorica,home and lifestyle,160.0
+linha_produto,,,,,,,,,,,categorica,health and beauty,152.0
+forma_pagamento,,,,,,,,,,,categorica,ewallet,345.0
+forma_pagamento,,,,,,,,,,,categorica,cash,344.0
+forma_pagamento,,,,,,,,,,,categorica,credit card,311.0
+classificacao,,,,,,,,,,,categorica,Satisfação Baixa,499.0
+classificacao,,,,,,,,,,,categorica,Satisfação Média,335.0
+classificacao,,,,,,,,,,,categorica,Satisfação Alta,166.0

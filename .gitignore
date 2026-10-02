@@ -1,0 +1,10 @@
+# Arquivos que deverão ser ignorados
+.venv/
+ven/
+env/
+
+# variáveis e credenciais
+.env
+
+# Python (arquivos caches do Python)
+__pycache__/
